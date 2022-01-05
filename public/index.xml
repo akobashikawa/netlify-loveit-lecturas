@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AKC Lecturas</title>
+        <link>https://akc-lecturas.netlify.app/</link>
+        <description>AKC Lecturas</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jan 2022 12:42:38 -0500</lastBuildDate>
+            <atom:link href="https://akc-lecturas.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://akc-lecturas.netlify.app/posts/first_post/</link>
+    <pubDate>Wed, 05 Jan 2022 12:42:38 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://akc-lecturas.netlify.app/posts/first_post/</guid>
+    <description><![CDATA[Heading 1 Párrafo en heading 1
+Heading 2 Párrafo en heading 2
+Heading 3 Párrafo en heading 3
+Heading 4 Párrafo en heading 4
+Heading 5 Párrafo en heading 5
+Heading 6 Párrafo en heading 6
+Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis eros nec mauris lobortis lobortis. Etiam eu lectus lacus. Morbi vitae magna sagittis odio porta feugiat at a mi. Integer ornare egestas erat, et varius ex.]]></description>
+</item></channel>
+</rss>
