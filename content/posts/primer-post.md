@@ -1,6 +1,9 @@
 ---
-title: "First_post"
+title: "Primer Post"
+translationKey : "primer-post"
 date: 2022-01-05T12:42:38-05:00
+categories: ["Prueba"]
+tags: ["prueba", "desarrollo"]
 draft: false
 ---
 
