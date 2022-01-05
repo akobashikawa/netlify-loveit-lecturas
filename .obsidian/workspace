@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "3cdee01e252f5e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e084e2e4a4688232",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/posts/primer-post.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8de9c40fbb8884a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f19526912f3a552",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "00d474168f638717",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "de9e7f38cadd559d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd9c8bdedbc1ec31",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/posts/primer-post.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e084e2e4a4688232",
+  "lastOpenFiles": [
+    "content/posts/primer-post.md",
+    "content/posts/el-metodo-zettelkasten-introduccion.md"
+  ]
+}
