@@ -7,6 +7,9 @@ tags: ["prueba", "desarrollo"]
 draft: false
 ---
 
+Para probar algunas cosas básicas.
+<!--more-->
+
 # Heading 1
 Párrafo en heading 1
 

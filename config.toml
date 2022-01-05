@@ -40,6 +40,14 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "Acerca"
+    url = "/acerca/"
+    title = ""
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
@@ -47,3 +55,45 @@ theme = "LoveIt"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.search]
+  enable = true
+  # type of search engine ("lunr", "algolia")
+  type = "lunr"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  #  max number of results length
+  maxResultLength = 10
+  #  snippet length of the result
+  snippetLength = 30
+  #  HTML tag name of the highlight part in results
+  highlightTag = "em"
+  #  whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+  [params.search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+
+[params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-ZQMWJ0YJX4"
+
+[params.footer]
+  custom = 'AKC Lecturas &copy;2022 - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /> </a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>'
+  hugo = false
+  copyright = false
+  author = false
+
+[author]
+  name = "Antonio Kobashikawa"
+  email = "akobashikawa@gmail.com"
+  link = ""
+  
