@@ -33,8 +33,3 @@ date: 2022-01-01T02:23:38.759Z
 * Como el auto control y la fuerza de voluntad son recursos caros, es útil usar estrategias que nos permitan su ahorro.
 * Tenemos más éxito cuando no necesitamos gastar tanto en fuerza de voluntad.
 * La organización de la escritura y la toma de notas ayudan a no gastar tanto en fuerza de voluntad.
-* Está técnica de toma de notas puede permitir una gran productividad.
-* Al confiar en este sistema para la organización, puedes concentrarte en el contenido, la argumentación y las ideas.
-* Una buena estructura de trabajo también permite alcanzar la fluidez.
-* Tener una estructura de trabajo es diferente de planificar.
-* Seguir un plan requiere gastar fuerza de voluntad y motivación.
