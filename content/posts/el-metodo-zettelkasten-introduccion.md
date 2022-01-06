@@ -7,7 +7,7 @@ author: Antonio Kobashikawa
 date: 2022-01-01T02:23:38.759Z
 ---
 
-![Portada](/images/el-metodo-zettelkasten-sonke-ahrens.jpg)
+![Portada](el-metodo-zettelkasten-sonke-ahrens.jpg)
 
 * Sönke Ahrens, "El Método Zettelkasten"
 * Cómo tomar notas de forma eficaz para impulsar la escritura y el
