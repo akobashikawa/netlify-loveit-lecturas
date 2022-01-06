@@ -101,4 +101,4 @@ theme = "LoveIt"
   enable = true
   [params.page.comment.disqus]
   enable = true
-  shortname = "rulokobashikawa"
+  shortname = "akc-lecturas"
