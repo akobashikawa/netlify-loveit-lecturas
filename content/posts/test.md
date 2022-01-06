@@ -1,10 +1,10 @@
 ---
-title: "Primer Post"
-translationKey : "primer-post"
+title: "Test"
+slug: "test"
 date: 2022-01-05T12:42:38-05:00
 categories: ["Prueba"]
 tags: ["prueba", "desarrollo"]
-draft: false
+draft: true
 ---
 
 Para probar algunas cosas básicas.
