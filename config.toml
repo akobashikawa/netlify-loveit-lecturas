@@ -102,3 +102,15 @@ theme = "LoveIt"
   [params.page.comment.disqus]
   enable = true
   shortname = "akc-lecturas"
+
+[params.home.profile]
+  enable = true
+  social = true
+  avatarURL = "/images/contact-person.jpg"
+
+[params.social]
+  GitHub = "akobashikawa"
+  Linkedin = "akobashikawa"
+  Twitter = "rulokoba"
+  Instagram = "rulokc"
+  Facebook = "akobashikawa"
