@@ -2,10 +2,9 @@
 title: "Acerca de este blog"
 date: 2022-01-05T14:00:44-05:00
 draft: false
-featuredImage: "/images/library-1800.jpg"
 ---
 
-![Biblioteca](/images/library-1800.jpg)
+![Biblioteca](library-1800.jpg)
 
 > _... involúcrame y lo comprenderé — Proverbio chino_
 
