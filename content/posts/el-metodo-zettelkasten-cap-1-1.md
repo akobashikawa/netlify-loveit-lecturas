@@ -2,14 +2,13 @@
 title: "El Metodo Zettelkasten - Cap 1.1"
 subtitle: "Las buenas soluciones son simples e inesperadas"
 slug: "el-metodo-zettelkasten-cap-1-1"
+featuredimage: "ahrens-el-metodo-zettelkasten-featured.png"
 categories: ["Ahrens - El Método Zettelkasten"]
 tags: ["productividad"]
 author: Antonio Kobashikawa
 date: 2022-01-06T13:04:00-05:00
 draft: false
 ---
-
-![Portada](el-metodo-zettelkasten-sonke-ahrens.jpg)
 
 <!--more-->
 
