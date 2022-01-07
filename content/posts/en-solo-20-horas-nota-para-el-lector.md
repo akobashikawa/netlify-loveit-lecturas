@@ -1,11 +1,13 @@
 ---
 title: En sólo 20 horas - Nota para el lector
 slug: en-solo-20-horas-nota-para-el-lector
-featuredimage: "kaufman-en-solo-20-horas-featured.png"
+featuredImage: "kaufman-en-solo-20-horas-featured.png"
+images: ["kaufman-en-solo-20-horas.png"]
 categories: ["Kaufman - En sólo 20 horas"]
 tags: ["productividad"]
 author: Antonio Kobashikawa
 date: 2022-01-07T01:25:00-05:00
+draft: false
 ---
 
 ![Portada](kaufman-en-solo-20-horas.png "Portada del libro")

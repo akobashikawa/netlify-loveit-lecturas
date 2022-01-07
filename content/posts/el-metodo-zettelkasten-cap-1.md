@@ -2,7 +2,7 @@
 title: "El Metodo Zettelkasten - Cap 1"
 subtitle: "Todo lo que necesitas saber"
 slug: "el-metodo-zettelkasten-cap-1"
-featuredimage: "ahrens-el-metodo-zettelkasten-featured.png"
+featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 categories: ["Ahrens - El Método Zettelkasten"]
 tags: ["productividad"]
 author: Antonio Kobashikawa
