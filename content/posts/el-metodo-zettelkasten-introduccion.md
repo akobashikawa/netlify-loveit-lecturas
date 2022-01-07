@@ -2,6 +2,7 @@
 title: El Método Zettelkasten - Introducción
 slug: el-metodo-zettelkasten-introduccion
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
+images: ["ahrens-el-metodo-zettelkasten.png"]
 categories: ["Ahrens - El Método Zettelkasten"]
 tags: ["productividad"]
 author: Antonio Kobashikawa
