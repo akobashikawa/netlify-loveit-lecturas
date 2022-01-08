@@ -18,8 +18,8 @@ draft: false
 	- Sus muchos intereses académicos los desarrollaba en casa, tomando notas de lo que iba leyendo.
 - De hacer anotaciones al margen o colocar notas en categorías existentes, encontró mejor **simplemente numerarlas y dejar que la revisión de las notas le sugirieran las categorías**.
 - Este fichero, o zettelkasten, le ayudaba a estructurar sus pensamientos, desarrollarlos, y se convirtió en alguien con quien dialogar.
-- Helmut Schesky, uno de los sociólogos más importantes de Alemania leyó el manuscrito que le había enviado y quedó impresionado, planteándole que debía dar catedra en sociología.
-- Con ayuda de su zettelkasten, en menos de un año, Luhmann hizo la tesis doctoral, estudió sociología e hizo la tesis para la obtener la catedra.
+- Helmut Schesky, uno de los sociólogos más importantes de Alemania leyó el manuscrito que le había enviado y quedó impresionado, planteándole que debía dar cátedra en sociología.
+- Con ayuda de su zettelkasten, en menos de un año, Luhmann hizo la tesis doctoral, estudió sociología e hizo la tesis para la obtener la cátedra.
 	- Luego, fue nombrado profesor de Sociología en la Universidad de Bielefeld.
 - En 30 años, además de criar solo a sus tres hijos, y desarrollar y publicar su proyecto principal de Teoría de la Sociedad, publicó 58 libros y cientos de artículos.
 	- Muchos se convirtieron en clásicos.
