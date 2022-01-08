@@ -17,10 +17,10 @@ draft: false
 - Soy autodidacta por naturaleza, prefiriendo la experiencia del aprendizaje a buscar ayuda.
 - Mi esposa Kelsey y yo, trabajamos en casa, ambos con nuestros respectivos negocios editoriales.
 - Además tenemos una hija, Lela, a la que cuidamos y educamos nosotros mismos turnándonos durante el día.
-- Como quería seguir aprendiendo aunque las nuevas responsabilidades me dejaban menos tiempo libre, desarrollé un método "adquisición rápida de destrezas".
+- Como quería seguir aprendiendo aunque las nuevas responsabilidades me dejaban menos tiempo libre, desarrollé un método para la "adquisición rápida de destrezas".
 - Malcom Gladwell escribió en un exitoso libro sobre la "regla de las 10 000 horas", que serían las que se requiere para lograr alcanzar el nivel de experto en cualquier cosa.
-- Aunque fuera cierta esa regla, para quienes no deseamos ser expertos, alcanzar el nivel de **suficiencia** puede requerir mucho menos tiempo del que se cree.
-- Alcanzar rapidamente la suficiencia aumenta la posibilidad de éxito si luego se quiere ser experto.
+	- Aunque fuera cierta esa regla, para quienes no deseamos ser expertos, alcanzar el nivel de **suficiencia** puede requerir mucho menos tiempo del que se cree.
+		- Alcanzar rapidamente la suficiencia aumenta la posibilidad de éxito si luego se quiere ser experto.
 - La **adquisición rápida de destrezas** es un proceso que consiste en dividir la habilidad en partes mas pequeñas, identificar las más importantes y luego practicarlas deliberadamente
 	- Deconstruir una habilidad en subhabilidades
 	- Aprender lo suficiente de cada subhabilidad para poder practicarla y corregirla
