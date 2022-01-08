@@ -27,7 +27,7 @@ draft: false
 - Luhman no contaba con un equipo de asistentes, y atribuía su impresionante productividad a su técnica de trabajo, que además le permitía lograrlo sin mucho esfuerzo.
 	- Decía que si no le apetecía trabajar en algo, no se obligaba sino que cambiaba de tema.
 		- Mantener una estructura de trabajo así de flexible sería la clave para mantener la motivación y una productividad fluida.
-- Hay estudios que señalan como gente altamente productiva consigue su éxito no tanto por su gran fuerza de voluntad, sino gracias a que han encontrado la manera de trabajar con poca resistencia a su voluntad.
+- Hay estudios que señalan que gente altamente productiva consigue su éxito no tanto por su gran fuerza de voluntad, sino gracias a que han encontrado la manera de trabajar con poca resistencia a su voluntad.
 - Aclarar la forma de trabajar de Luhmann ha tardado debido al idioma, la relativa poca publicidad y el prejuicio de que no podía ser algo tan sencillo.
 	- Muchas personas pensaron que el secreto de Luhmann era su talento, o el tener un zettelkasten y sus intentos de emularlo fracasaron.
 		- Es vital considerar el flujo de trabajo que se debe integrar.
