@@ -1,18 +1,19 @@
 ---
-title: En sólo 20 horas - Cap 1
-slug: en-solo-20-horas-cap-1
+title: "En sólo 20 horas - Cap 1"
+subtitle: "Retrato del autor como un adicto al aprendizaje"
+slug: "en-solo-20-horas-cap-1"
 featuredImage: "kaufman-en-solo-20-horas-featured.png"
 images: ["kaufman-en-solo-20-horas.png"]
 categories: ["Kaufman - En sólo 20 horas"]
 tags: ["productividad"]
-author: Antonio Kobashikawa
+author: "Antonio Kobashikawa"
 date: 2022-01-07T18:39:00-05:00
 draft: false
 ---
 
 <!--more-->
 
-# 1. Retrato del autor como un adicto al aprendizaje
+## 1. Retrato del autor como un adicto al aprendizaje
 - Soy Josh Kaufman, una persona con numerosos y diversos intereses e ideas que quisiera realizar.
 - Soy autodidacta por naturaleza, prefiriendo la experiencia del aprendizaje a buscar ayuda.
 - Mi esposa Kelsey y yo, trabajamos en casa, ambos con nuestros respectivos negocios editoriales.

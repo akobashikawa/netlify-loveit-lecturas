@@ -1,11 +1,11 @@
 ---
-title: En sólo 20 horas - Nota para el lector
-slug: en-solo-20-horas-nota-para-el-lector
+title: "En sólo 20 horas - Nota para el lector"
+slug: "en-solo-20-horas-nota-para-el-lector"
 featuredImage: "kaufman-en-solo-20-horas-featured.png"
 images: ["kaufman-en-solo-20-horas.png"]
 categories: ["Kaufman - En sólo 20 horas"]
 tags: ["productividad"]
-author: Antonio Kobashikawa
+author: "Antonio Kobashikawa"
 date: 2022-01-07T01:25:00-05:00
 draft: false
 ---
@@ -16,7 +16,7 @@ draft: false
 
 <!--more-->
 
-# Nota para el lector
+## Nota para el lector
 - Hay muchas cosas que desearíamos hacer, de contar con el suficiente tiempo y esfuerzo.
 - Aprender algo se enfrenta con una _barrera de la frustración_ que desanima.
 	- Es posible aprender nuevas destrezas con menos esfuerzo y en menos tiempo.

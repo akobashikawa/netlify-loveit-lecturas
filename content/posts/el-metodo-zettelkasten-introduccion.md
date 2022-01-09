@@ -1,11 +1,11 @@
 ---
-title: El Método Zettelkasten - Introducción
-slug: el-metodo-zettelkasten-introduccion
+title: "El Método Zettelkasten - Introducción"
+slug: "el-metodo-zettelkasten-introduccion"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]
 categories: ["Ahrens - El Método Zettelkasten"]
 tags: ["productividad"]
-author: Antonio Kobashikawa
+author: "Antonio Kobashikawa"
 date: 2022-01-01T02:23:38-05:00
 draft: false
 ---
