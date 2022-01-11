@@ -13,7 +13,7 @@ draft: false
 
 <!--more-->
 
-## 1. Retrato del autor como un adicto al aprendizaje
+## Retrato del autor como un adicto al aprendizaje
 - Soy Josh Kaufman, una persona con numerosos y diversos intereses e ideas que quisiera realizar.
 - Soy autodidacta por naturaleza, prefiriendo la experiencia del aprendizaje a buscar ayuda.
 - Mi esposa Kelsey y yo, trabajamos en casa, ambos con nuestros respectivos negocios editoriales.
