@@ -31,3 +31,5 @@ draft: false
 			- Esto se parece a hacer colecciones de hipervínculos.
 - Además, mantenía un índice, que hacía referencia a los puntos de partida de líneas de pensamiento, o temas.
 - El sencillo esquema de Luhmann se facilita aún más con el software actual.
+
+[[el-metodo-zettelkasten-cap-2]]

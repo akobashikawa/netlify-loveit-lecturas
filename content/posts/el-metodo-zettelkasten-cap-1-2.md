@@ -31,3 +31,5 @@ draft: false
 - Aclarar la forma de trabajar de Luhmann ha tardado debido al idioma, la relativa poca publicidad y el prejuicio de que no podía ser algo tan sencillo.
 	- Muchas personas pensaron que el secreto de Luhmann era su talento, o el tener un zettelkasten, y sus intentos de emularlo fracasaron.
 		- Es vital considerar el flujo de trabajo que se debe integrar.
+
+[[el-metodo-zettelkasten-cap-1-3]]

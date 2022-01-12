@@ -28,3 +28,5 @@ draft: false
 - La búsqueda de ideas buenas puede llevarlos a explorar en diversas dsciplinas y es necesario contar con un registro que apoye ese viaje.
 - El efecto Dunning-Kruger, así como el síndrome del impostor, señalan la paradoja de que los estudiantes que no son muy buenos suelen sentirse muy suficientes mientras que los que sí son buenos tienden a infravalorar sus habilidades, ya que las comparan contra un universo más amplio.
 - Escribir es la herramienta principal, primero, para comprender ideas, y después, para compartirlas.
+
+[[el-metodo-zettelkasten-cap-1-1]]

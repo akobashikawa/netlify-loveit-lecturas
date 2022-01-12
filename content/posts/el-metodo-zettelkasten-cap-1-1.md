@@ -22,3 +22,5 @@ draft: false
 - Usaremos dos ideas conocidas y comprobadas. La primera es usar el método Zettelkasten. La segunda es habituarnos a un marco de trabajo simple y eficiente.
 - Aunque el marco de trabajo GTD, de David Allen, es muy reconocido, es un poco difícil usarlo tal cual para este caso.
 - Pero podemos valorar su premisa de tener una perspectiva global del sistema. Que las tareas encajen y permitan pasar fluidamente entre ellas. Y que se debe llegar a confiar en el sistema para liberar la mente y permita enfocarla en las tareas que más nos importan.
+
+[[el-metodo-zettelkasten-cap-1-2]]

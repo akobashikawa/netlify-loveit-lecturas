@@ -36,3 +36,5 @@ draft: false
 * Como el auto control y la fuerza de voluntad son recursos caros, es útil usar estrategias que nos permitan su ahorro.
 * Tenemos más éxito cuando no necesitamos gastar tanto en fuerza de voluntad.
 * La organización de la escritura y la toma de notas ayudan a no gastar tanto en fuerza de voluntad.
+
+[[el-metodo-zettelkasten-cap-1]]

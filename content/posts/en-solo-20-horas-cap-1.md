@@ -43,3 +43,5 @@ draft: false
 	- Etapa asociativa (intermedia), donde practicamos con mucha atención y vamos hacemos ajustes
 	- Etapa autónoma (tardía), donde realizamos lo aprendido con poca atención
 - Podemos hacer que todo este proceso sea más veloz.
+
+[[en-solo-20-horas-cap-2]]

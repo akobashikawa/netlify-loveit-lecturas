@@ -22,3 +22,5 @@ draft: false
 	- Es posible aprender nuevas destrezas con menos esfuerzo y en menos tiempo.
 	- La experiencia muestra que se requiere unas 20 horas para romper la barrera de la frustración.
 - El libro describe un método universal para lograr aprender de manera notable cualquier cosa.
+
+[[en-solo-20-horas-cap-1]]
