@@ -2,8 +2,8 @@
 title: "Los Pilares de la Tierra - Cap I.1"
 summary: "Tom dirige la construcción de una lujosa casa en un gran valle y recibe una noticia inesperada."
 slug: "los-pilares-de-la-tierra-cap-i-1"
-featuredImage: "follet-los-pilares-de-la-tierra-featured.png"
-images: ["follet-los-pilares-de-la-tierra.png"]
+featuredImage: "follet-los-pilares-de-la-tierra-cap-i-1.png"
+images: ["follet-los-pilares-de-la-tierra-cap-i-1.png"]
 categories: ["Follet - Los Pilares de la Tierra"]
 tags: ["novela"]
 author: "Antonio Kobashikawa"
