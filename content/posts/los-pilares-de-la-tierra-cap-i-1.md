@@ -13,7 +13,7 @@ draft: false
 - Tom dirige la construcción de una lujosa casa en un gran valle. Participa también su hijo adolescente, Alfred.
 - Tom trabajaba con maestría, adquirida del maestro de la catedral de Exeter.
 - Cuando murió el maestro de Exeter, suspendieron la obra y, aunque el gobernador le había ofrecido otro puesto muy bueno en la ciudad, decidió marcharse con su familia a buscar otra catedral.
-- Agnes, su esposa, llegó con la comida del almuerzo, y con Martha, su pequeña hija. Miwntras comían, le avisó a Tom que estaba preñada otra vez.
+- Agnes, su esposa, llegó con la comida del almuerzo, y con Martha, su pequeña hija. Mientras comían, le avisó a Tom que estaba preñada otra vez.
 - Tom se alegró y calculó que la obra aún les daría sustento para varios meses más. Pero su esposa parecía seguir en desacuerdo por esa vida errante buscando catedrales.
 - Lllegó a caballo un aprendiz de caballero para avisarles que estaba por llegar lord William, hijo del dueño y para quien era la casa en construcción, furioso porque su novia ya no quería casarse con él.
 - Un jinete apareción viniendo a toda velocidad en un gran caballo. Inquietos por un posible percance, empezaron a buscar a Martha y tratar de frenar al jinete.
