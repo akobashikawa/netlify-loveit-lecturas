@@ -1,6 +1,7 @@
 ---
 title: "El Metodo Zettelkasten - Cap 1.2"
 subtitle: "El Zettelkasten"
+summary: "El sistema de notas usado por el prolífico Niklas Luhmann."
 slug: "el-metodo-zettelkasten-cap-1-2"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]

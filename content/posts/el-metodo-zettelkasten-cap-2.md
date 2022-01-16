@@ -1,6 +1,7 @@
 ---
 title: "El Metodo Zettelkasten - Cap 2"
 subtitle: "Todo lo que necesitas hacer"
+summary: "El flujo de trabajo para escribir."
 slug: "el-metodo-zettelkasten-cap-2"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]

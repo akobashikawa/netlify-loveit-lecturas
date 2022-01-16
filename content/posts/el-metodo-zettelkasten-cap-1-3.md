@@ -1,6 +1,7 @@
 ---
 title: "El Metodo Zettelkasten - Cap 1.3"
 subtitle: "El Manual del Zettelkasten"
+summary: "Mecánica del zettelkasten."
 slug: "el-metodo-zettelkasten-cap-1-3"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]

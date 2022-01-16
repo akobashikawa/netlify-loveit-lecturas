@@ -1,6 +1,7 @@
 ---
 title: "En sólo 20 horas - Cap 2"
 subtitle: "Los diez principios de la adquisición rápida de destrezas"
+summary: "Me es útil pensar en estos principios como formas de cultivar una 'obsesión temporal'"
 slug: "en-solo-20-horas-cap-2"
 featuredImage: "kaufman-en-solo-20-horas-featured.png"
 images: ["kaufman-en-solo-20-horas.png"]

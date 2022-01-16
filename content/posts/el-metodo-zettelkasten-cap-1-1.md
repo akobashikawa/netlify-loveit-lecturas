@@ -1,6 +1,7 @@
 ---
 title: "El Metodo Zettelkasten - Cap 1.1"
 subtitle: "Las buenas soluciones son simples e inesperadas"
+summary: "Tomar notas eficaces no requiere un sistema complejo."
 slug: "el-metodo-zettelkasten-cap-1-1"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]

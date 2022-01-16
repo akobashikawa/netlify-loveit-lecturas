@@ -1,6 +1,7 @@
 ---
 title: "En sólo 20 horas - Cap 1"
 subtitle: "Retrato del autor como un adicto al aprendizaje"
+summary: "Pasos para la adquisición rápida de destrezas."
 slug: "en-solo-20-horas-cap-1"
 featuredImage: "kaufman-en-solo-20-horas-featured.png"
 images: ["kaufman-en-solo-20-horas.png"]

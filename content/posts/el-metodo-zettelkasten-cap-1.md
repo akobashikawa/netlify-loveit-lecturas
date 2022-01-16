@@ -1,6 +1,7 @@
 ---
 title: "El Metodo Zettelkasten - Cap 1"
 subtitle: "Todo lo que necesitas saber"
+summary: "Escribir es la herramienta principal, primero, para comprender ideas, y después, para compartirlas"
 slug: "el-metodo-zettelkasten-cap-1"
 featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]
