@@ -1,5 +1,6 @@
 ---
 title: "Los Pilares de la Tierra - Prólogo"
+summary: "En 1120, la muerte de los herederos del rey Henry inició un trance político por la sucesión, que duró varios años."
 slug: "los-pilares-de-la-tierra-prologo"
 featuredImage: "follet-los-pilares-de-la-tierra-featured.png"
 images: ["follet-los-pilares-de-la-tierra.png"]
