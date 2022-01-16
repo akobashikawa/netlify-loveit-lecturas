@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-11T10:29:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ### 1.3 El Manual del Zettelkasten
 - Luhmann tenía dos ficheros, uno bibliográfico y otro de ideas.
 - En la primera fase, usaba el fichero bibliográfico para agregar notas breves sobre una fuente y el contenido que le llamó la atención.

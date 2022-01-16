@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-07T18:39:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ## Retrato del autor como un adicto al aprendizaje
 - Soy Josh Kaufman, una persona con numerosos y diversos intereses e ideas que quisiera realizar.
 - Soy autodidacta por naturaleza, prefiriendo la experiencia del aprendizaje a buscar ayuda.

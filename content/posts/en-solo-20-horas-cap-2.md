@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-11T13:08:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ## Los diez principios de la adquisición rápida de destrezas
 - Me es útil pensar en estos principios como formas de cultivar una "obsesión temporal".
 1. Elige un proyecto que ames de verdad

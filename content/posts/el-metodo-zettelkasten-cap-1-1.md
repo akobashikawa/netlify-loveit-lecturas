@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-06T13:04:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ### 1.1 Las buenas soluciones son simples e inesperadas
 - Tomar notas eficaces no requiere un sistema complejo o abandonar lo que ya se tiene.
 - Para mucha gente, coleccionar notas se va volviendo complejo, y organizarlas en carpetas no ayuda sino que crea silos de información que no ayudan a relacionarla.

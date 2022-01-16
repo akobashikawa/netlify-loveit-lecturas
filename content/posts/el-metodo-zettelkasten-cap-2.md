@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-12T15:19:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ## 2. Todo lo que necesitas hacer
 - Si en lugar de empezar con una hoja en blanco ya tuviéramos un borrador de lo queremos escribir, tendríamos una tarea mejor definida y más motivación para hacer las correcciones y la edición.
 	- Si en lugar de hacer un borrador desde cero ya tuviéramos el conjunto de notas que forman el material base, también tendríamos una tarea mejor definida y más motivación para hacer el boceto de nuestra obra.

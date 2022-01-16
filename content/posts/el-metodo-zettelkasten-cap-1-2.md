@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-07T19:16:00-05:00
 draft: false
 ---
-
-<!--more-->
-
 ### 1.2 El Zettelkasten
 - Niklas Luhmann, trabajaba como empleado público, aunque había estudiado derecho.
 	- Sus muchos intereses académicos los desarrollaba en casa, tomando notas de lo que iba leyendo.

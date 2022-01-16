@@ -11,9 +11,6 @@ author: "Antonio Kobashikawa"
 date: 2022-01-06T00:22:45-05:00
 draft: false
 ---
-
-<!--more-->
-
 ## 1. Todo lo que necesitas saber
 - Está técnica de toma de notas puede permitir una gran productividad.
 - Una buena estructura de trabajo te permite trabajar de manera fluida.
