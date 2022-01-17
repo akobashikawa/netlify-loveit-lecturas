@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3c31ca8-6087-4295-846c-10d1e6cda19e/deploy-status)](https://app.netlify.com/sites/akc-lecturas/deploys)
 
-Lecturas que voy realizando.
+Notas sobre lo que voy leyendo.
 
 ## Sobre la plataforma
 
