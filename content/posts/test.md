@@ -1,8 +1,11 @@
 ---
 title: "Test"
 slug: "test"
+summary: "Para probar cosas"
 categories: ["Prueba"]
 tags: ["prueba", "desarrollo"]
+math:
+  enable: true
 draft: false
 outputs:
   - html
@@ -12,9 +15,6 @@ hiddenFromSearch: false
 linkToMarkdown: true
 date: 2022-01-05T12:42:38-05:00
 ---
-
-Para probar cosas.
-<!--more-->
 
 # Heading 1
 Párrafo en heading 1
@@ -47,3 +47,68 @@ let sum = function(a, b) {
   return a + v;
 }
 ```
+
+## Gist
+{{< gist spf13 7896402 >}}
+
+## Maths
+
+$$ c = \pm\sqrt{a^2 + b^2} $$
+
+## Banners
+
+{{< admonition type=tip title="This is a tip" open=false >}}
+A **tip** banner
+{{< /admonition >}}
+
+## Flowchart
+
+{{< mermaid >}}
+graph LR;
+    A[Process] -->|Action| B(Result)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{{< /mermaid >}}
+
+## Sequence Diagram
+
+{{< mermaid >}}
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail...
+    John-->Alice: Great!
+    John->Bob: How about you?
+    Bob-->John: Jolly good!
+{{< /mermaid >}}
+
+## State Diagram
+
+{{< mermaid >}}
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+    Still --> Moving
+    Moving --> Still
+    Moving --> Near
+    Near --> [*]
+{{< /mermaid >}}
+
+## Typeit
+
+{{< typeit >}}
+This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
+{{< /typeit >}}
+
+## Instagram
+
+{{< instagram BWNjjyYFxVx >}}
+
+## Youtube
+
+{{< youtube XaKhz3iAxqQ >}}
