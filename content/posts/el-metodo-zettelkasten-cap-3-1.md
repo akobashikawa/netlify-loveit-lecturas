@@ -1,5 +1,5 @@
 ---
-title: "El Metodo Zettelkasten - Cap 3-1"
+title: "El Metodo Zettelkasten - Cap 3.1"
 subtitle: "La caja de herramientas"
 summary: "Las herramientas justas y necesarias son cuatro."
 slug: "el-metodo-zettelkasten-cap-3-1"
