@@ -43,7 +43,7 @@ draft: false
 	- Tampoco contaba con su padre, que ya había muerto, así que sola, en una cueva, dió a luz a Jack.
 	- Luego, sola lo crió y educó.
 	- Los proscritos le temían, y ella evitaba a los demás.
-		- Peor el caso de Martha e había interesado.
+		- Pero el caso de Martha le había interesado.
 - Tom dudaba que Jack fuera instruido, pero cuando Ellen ayudó a que le mostrara lo bien que escribía y dibujaba, se quedó asombrado.
 	- Sin embargo, por el aislamiento, Jack no socializaba normalmente.
 - Tom pensó con pena que, a pesar de sus capacidades, ella y su hijo estaban condenados a vivir al margen.
