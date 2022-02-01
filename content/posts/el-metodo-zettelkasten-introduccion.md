@@ -1,7 +1,8 @@
 ---
 title: "El Método Zettelkasten - Introducción"
 slug: "el-metodo-zettelkasten-introduccion"
-featuredImage: "ahrens-el-metodo-zettelkasten-featured.png"
+summary: "Una buena estrategia de toma de notas puede significar una enorme diferencia de productividad"
+featuredImagePreview: "ahrens-el-metodo-zettelkasten-featured.png"
 images: ["ahrens-el-metodo-zettelkasten.png"]
 categories: ["Ahrens - El Método Zettelkasten"]
 tags: ["productividad"]
@@ -15,8 +16,6 @@ draft: false
 * Sönke Ahrens, "El Método Zettelkasten"
 * Cómo tomar notas de forma eficaz para impulsar la escritura y el
   aprendizaje de estudiantes, académicos y escritores de no ficción.
-
-<!--more-->
 
 ## Introducción
 

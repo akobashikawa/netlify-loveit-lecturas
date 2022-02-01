@@ -1,7 +1,8 @@
 ---
 title: "En sólo 20 horas - Nota para el lector"
 slug: "en-solo-20-horas-nota-para-el-lector"
-featuredImage: "kaufman-en-solo-20-horas-featured.png"
+summary: "El libro describe un método universal para lograr aprender de manera notable cualquier cosa."
+featuredImagePreview: "kaufman-en-solo-20-horas-featured.png"
 images: ["kaufman-en-solo-20-horas.png"]
 categories: ["Kaufman - En sólo 20 horas"]
 tags: ["productividad"]
@@ -13,8 +14,6 @@ draft: false
 ![Portada](kaufman-en-solo-20-horas.png "Portada del libro")
 - Josh Kaufman, "En sólo 20 horas"
 - Aprende lo que quieras de manerá rápida
-
-<!--more-->
 
 ## Nota para el lector
 - Hay muchas cosas que desearíamos hacer, de contar con el suficiente tiempo y esfuerzo.

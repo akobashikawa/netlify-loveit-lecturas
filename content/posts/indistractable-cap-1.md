@@ -3,7 +3,7 @@ title: "Indistractable - Cap 1"
 subtitle: "¿Cuál es tu super poder?"
 summary: "Sumario del libro"
 slug: "indistractable-cap-1"
-featuredImage: "indistractable-featured.png"
+featuredImagePreview: "indistractable-featured-1.png"
 images: ["indistractable.png"]
 categories: ["Eyal - Indistractable"]
 tags: ["productividad"]
@@ -11,6 +11,9 @@ author: "Antonio Kobashikawa"
 date: 2022-02-01T12:18:00-05:00
 draft: false
 ---
+
+{{<image src="indistractable.png" width="300">}}
+
 - "Indistractable", por Nir Eyal
 - Cómo controlar tu atención y Elegir tu vida
 
