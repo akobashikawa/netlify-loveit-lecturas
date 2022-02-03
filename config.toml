@@ -1,4 +1,4 @@
-baseURL = "https://akc-lecturas.netlify.app/"
+baseURL = "https://lecturas.akcademia.xyz/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
