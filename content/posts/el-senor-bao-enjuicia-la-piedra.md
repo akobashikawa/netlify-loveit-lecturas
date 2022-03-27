@@ -1,6 +1,7 @@
 ---
 title: "El Señor Bao enjuicia la piedra"
 slug: "el-senor-bao-enjuicia-la-piedra"
+summary: "Mientras ordenaba a su guardia golpear la piedra, le preguntó: 'Di toda la verdad, ¿eres tú quien ha robado el dinero?'... ¿Acaso la piedra habla?"
 categories: ["Historias"]
 tags: ["cuento", "chino", "china", "filmora", "youtube"]
 featuredImagePreview: "el-senor-bao-enjuicia-la-piedra.jpg"
